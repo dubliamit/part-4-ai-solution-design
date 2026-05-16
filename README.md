@@ -226,6 +226,8 @@ For example Routes from urban areas may have more data than rural areas or certa
 3. **Privacy Concerns** - Transportation systems often collect sensitive data such as GPS locations, Driver information, Customer addresses, Vehicle movement history. This creates risks like Unauthorized access to location data, Data leaks or cyberattacks or Misuse of personal information. Organizations must ensure secure data storage, encryption, and proper access control to protect privacy.
 
 4. **Over-Reliance on AI** - Companies may become too dependent on AI-generated recommendations. That can create risks like employees may stop verifying decisions manually or drivers may blindly follow incorrect route suggestions 
-Businesses may trust predictions even during unusual situations.
+Businesses may trust predictions even during unusual situations. AI should support human decision-making, not completely replace it.
 
-AI should support human decision-making, not completely replace it.
+5. **Impact on Users** - AI systems directly affect drivers - Increased pressure to meet AI-generated schedules or reduced flexibility in route decisions, employees - Frustration if predictions are inaccurate or poor service experience during system failures , and customers - Fear of job replacement due to automation or need to learn new technologies and systems. Organizations should ensure AI is used ethically and responsibly.
+
+6. **Need for Human Oversight** - Human supervision is necessary to maintain safety, fairness, and reliability because humans can handle unexpected situations better than AI For example managers can verify unusual predictions or drivers can report incorrect route suggestions similarly analysts can monitor model performance and bias.
