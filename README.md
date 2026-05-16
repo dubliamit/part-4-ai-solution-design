@@ -221,4 +221,11 @@ Humans can override AI recommendations during emergencies, traffic disruptions, 
 1. **Bias in Data** - AI models learn from historical data. If the training data contains bias or incomplete information, the model may produce unfair or inaccurate predictions.
 For example Routes from urban areas may have more data than rural areas or certain traffic conditions may be underrepresented.
 
-2. **Incorrect Predictions** - AI models are not always accurate and may produce wrong estimates. For example Predicting shorter delivery times during unexpected traffic jams or Incorrect fuel consumption estimates
+2. **Incorrect Predictions** - AI models are not always accurate and may produce wrong estimates. For example Predicting shorter delivery times during unexpected traffic jams or Incorrect fuel consumption estimates etc.
+
+3. **Privacy Concerns** - Transportation systems often collect sensitive data such as GPS locations, Driver information, Customer addresses, Vehicle movement history. This creates risks like Unauthorized access to location data, Data leaks or cyberattacks or Misuse of personal information. Organizations must ensure secure data storage, encryption, and proper access control to protect privacy.
+
+4. **Over-Reliance on AI** - Companies may become too dependent on AI-generated recommendations. That can create risks like employees may stop verifying decisions manually or drivers may blindly follow incorrect route suggestions 
+Businesses may trust predictions even during unusual situations.
+
+AI should support human decision-making, not completely replace it.
