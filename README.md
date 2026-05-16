@@ -269,5 +269,4 @@ Over-reliance on AI	                                                Keep human r
 Unexpected traffic or weather events	                              Integrate real-time traffic and weather updates
 
 # Conclusion
-
 The proposed AI-powered transportation solution uses machine learning and real-time data analysis to improve delivery prediction, route optimization, and fleet management. By implementing an LSTM-based prediction model with proper monitoring and human oversight, transportation companies can reduce costs, improve operational efficiency, and provide better customer service.
