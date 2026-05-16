@@ -198,14 +198,14 @@ e) Operational Efficiency - Measures improvements in Trip planning, Driver sched
 
 3. **Possible Failure Cases** - The AI system may fail or produce incorrect predictions in some situations.
 
-1. Sudden traffic accidents not present in historical data
-2. GPS signal loss
-3. Extreme weather conditions
-4. Incorrect sensor readings
-5. Missing or outdated traffic data
-6. New routes with little historical information
-7. Human data entry errors
-For example - The model may predict a normal delivery time even though a road is unexpectedly closed.
+   1. Sudden traffic accidents not present in historical data
+   2. GPS signal loss
+   3. Extreme weather conditions
+   4. Incorrect sensor readings
+   5. Missing or outdated traffic data
+   6. New routes with little historical information
+   7. Human data entry errors
+   For example - The model may predict a normal delivery time even though a road is unexpectedly closed.
 
 4. **Human Review or Validation Process** - Human monitoring is important to ensure the AI system remains reliable.
 
